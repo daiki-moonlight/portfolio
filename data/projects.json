@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "llm-assistant",
+    "title": "LLM Assistant — Contextual Knowledge Agent",
+    "short": "An LLM-based assistant that integrates retrieval-augmented generation for company knowledge bases.",
+    "tech": ["Python","LangChain","FastAPI","Postgres","Docker"],
+    "repo": "#",
+    "demo": "#",
+    "outcome": "Improved resolution time for support queries by 40% through contextual answers and citation-aware responses."
+  },
+  {
+    "slug": "vision-pipeline",
+    "title": "Computer Vision Pipeline — OCR & Analysis",
+    "short": "Processed documents with OCR, extracted structured data, and provided insights through dashboards.",
+    "tech": ["Python","OpenCV","Tesseract","Node.js","React"],
+    "repo": "#",
+    "demo": "#",
+    "outcome": "Automated data extraction reduced manual processing by 75%."
+  },
+  {
+    "slug": "realtime-dashboard",
+    "title": "Realtime Monitoring Dashboard",
+    "short": "Realtime metrics dashboard with streaming data and alerting for production services.",
+    "tech": ["React","Next.js","WebSockets","Kubernetes","Prometheus"],
+    "repo": "#",
+    "demo": "#",
+    "outcome": "Enabled ops to detect incidents 2x faster and reduce MTTR."
+  }
+]
